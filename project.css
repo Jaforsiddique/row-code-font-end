@@ -1,0 +1,1150 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body {
+    background: #e6e6e6d1;
+}
+.body-white{
+    background:white;
+}
+.area {
+    /* background: linear-gradient(to left, #9aff70,#40d5ff, #ff5667); */
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 0;
+    outline: none;
+}
+.fast-food,.FFFR {
+    
+   background: #fefdfe;
+    
+}
+.fast-food-restaurants h1{
+    
+        text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 34px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    background-color: #3d92b2;
+    Margin: 10px 0px 10px 0px;
+    text-decoration: none;
+    border-radius: 70px;
+    
+}
+.fast-food img {
+    width: 330.67px;
+    height: 250px;
+    background:white;
+}
+
+.fast-food {
+    float: left;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 0 0 0;
+    /* margin-right: 0; */
+    border: 0px solid #faf7f100;
+}
+.FFFR{
+        text-align: center;
+    padding: 20px 0 20px 0px;
+    
+}
+.FFFR a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #00b4db, #0083b0);
+    padding: 10px 40px;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 20;
+    
+}
+.FFFR a:hover {
+       border-color: #d00505;
+    background: linear-gradient(to bottom,#088ab3, #0092bd,#1b7c9e);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+.head {
+    background: linear-gradient(to bottom,#0a5a73b0, #057ba5c2,#156088c9);
+    overflow: hidden;
+    padding: 50px 0px;
+}
+
+.logo{
+	
+}
+.logo-name {
+    display: inline-block;
+    margin-top: 118.5px;
+    font-size: 30px;
+    margin: 42.75px 10px 0px 10px;
+    padding: 0px 10px 0px 10px;
+    /* background: linear-gradient(to right, #9b2f30 0%, #2f546b 100%); */
+    color: #44ff7e;
+    font-family: Chiller;
+    /* box-shadow: inset 1px 1px 20px 0px black; */
+}
+
+.logo img {
+    float: left;
+    width: 300px;
+    margin-right: 20px;
+    padding: 40px;
+    /* background: #417f9f; */
+    box-shadow: inset 0px -20px 20px 15px #204b5d;
+    border-radius: 160px;
+}
+.menu {
+    float: right;
+    width: 634px;
+    margin-top: 113.5px;
+}
+.menu ul {
+	text-align: right;
+	list-style: none;
+}
+.menu ul li{
+	display:inline-block
+}
+.menu ul li a {
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 15px 12px;
+    display: block;
+    border-radius: 50px;
+    background: #204b5d;
+}
+
+.menu ul li a:hover{
+	border-color: #d00505;
+    background: linear-gradient(to bottom,#045a75c7, #0092bd,#156480);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 7px 1px #000000;
+}
+
+
+
+
+.bannar{
+	
+}
+.bannar img {
+    width: 100%;
+    height: 600px;
+    margin: 40px 0 60px 0px;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+}
+.services {
+    text-decoration: none;
+    padding: 100px 0px 0px 0px;
+}
+.service1, .service2, .service3 {
+    background: linear-gradient(to bottom,#ffffff, #ffffff,#ffffff,#ffffff, #ffffff,#ffffff);
+    height: 1400px;
+    float: left;
+    width: 320px;
+    overflow: hidden;
+    margin: 60px 0px 60px 20px;
+    padding: 0px;
+    border-radius: 200px;
+    text-align: center;
+}
+
+.service1{
+	margin-left:0;
+}
+.service3{
+	margin-right:0;
+}
+
+.services a {
+	text-decoration: none;
+	color: white;
+	 display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #00b4db, #0083b0);
+    padding: 10px 40px;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 20;
+}
+.services iframe {
+    width: inherit;
+    margin: 0 0 0 0;
+   
+    height: 500;
+}
+.services h1 {
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 34px;
+   font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    background-color: #3d92b2;
+    Margin: 0px 0px 0px 0px;
+    text-decoration: none;
+    padding: 40px 0px 0px 0;
+    border-radius: -16px;
+}
+.services h3 {
+    text-align: center;
+    color: #00416a;
+    text-transform: initial;
+    font-size: 25px;
+    overflow: hidden;
+    font-family: Bahnschrift Light;
+    font-style: bold;
+    Margin: 20px 0px 60px 0;
+}
+.services p {
+    font-family: Calibri;
+    padding: 21px 20px 20px 20px;
+    text-align: justify;
+}
+
+
+
+
+
+.services a:hover {
+       border-color: #d00505;
+    background: linear-gradient(to bottom,#088ab3, #0092bd,#1b7c9e);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.restaurant {
+    background: linear-gradient(to bottom,#eaeaea00,#ffffff,#ffffff, #ffffff, #ffffffde);
+    height: auto;
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px 0px 60px 0px;
+    padding: 0px;
+}
+.restaurant h1 {
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 34px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    background-color: #3d92b2;
+    Margin: 0px 0px 10px 0px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+.choice img {
+    float: left;
+    margin: 10px 8px 10px 8px;
+    padding: 0px 0 0 0;
+    border: 4px solid #faf7f100;
+}
+
+.SD {
+	
+}
+.SD a{
+	
+}
+.SD a img {
+    width: 316.67px;
+    height: 200px;
+}
+.gr {
+	
+}
+.gr a{
+	
+}
+.gr a img {
+    width: 316.67px;
+    height: 200px;
+}
+}
+
+.cr{
+	
+}
+.cr a{
+	
+}
+.cr a img {
+    width: 316.67px;
+    height: 200px;
+}
+
+
+
+
+.SD img:hover {
+    border: 0px solid #080808;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px 10px #e9c662e0;
+}
+.cr img:hover {
+    border: 0px solid #080808;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px 10px #251306;
+}
+.gr img:hover {
+    border: 0px solid #080808;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px 10px #ed2227db;
+}
+
+
+
+
+
+
+
+
+.about {
+    overflow: hidden;
+    text-align: center;
+    background: linear-gradient(to bottom, #eaeaea00, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff);
+    margin: 0px 0 0px 0px;
+}
+.about-left{
+	float: left;
+	width: 700px;
+	margin-right: 30px;
+}
+.about-left h4, .about-menu h4 {
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 34px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    background-color: #3d92b2;
+    Margin: 0px 0px 10px 0px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+.about-left p {
+    margin: 50px 10px;
+    font-size: 19px;
+    text-align: left;
+    font-family: Calibri;
+    text-align: justify;
+}
+.about-left a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #00b4db, #0083b0);
+    padding: 10px 40px;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 20;
+    margin: 0px 0px 100px 0;
+}
+
+
+
+.about-left a:hover {
+    border-color: #d00505;
+    background: linear-gradient(to bottom,#045a75c7, #0092bd,#156480);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 7px 1px #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about-menu{
+	float: right;
+	width: 270px;
+	
+}
+.about-menu h4{
+	
+}
+.about-menu p{
+	
+}
+.about-menu ul{
+	
+}
+.about-menu ul li{
+	list-style: none;
+	
+}
+.about-menu ul li a {
+    text-decoration: none;
+    color: #093567;
+    /* display: flex; */
+    /* align-items: center; */
+    /* background: linear-gradient(to bottom, #00b4db, #0083b0); */
+    padding: 10px 40px;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 20px;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+
+
+
+
+
+
+.about-menu ul li a:hover {
+        border-color: #d00505;
+    background: linear-gradient(to bottom,#088ab3, #0092bd,#1b7c9e);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background: #ebfaffd4;
+    overflow: hidden;
+}
+
+.copy p {
+    display: inline-block;
+    /* margin-top: 118.5px; */
+    font-size: 20px;
+    margin: 60px 20px 60px 20px;
+    padding: 30px 10px 30px 10px;
+    /* background: linear-gradient(to right, #9b2f30 0%, #2f546b 100%); */
+    color: #204b5d;
+    /* font-family: BankGothic Md BT; */
+    margin: auto auto;
+    overflow: hidden;
+}
+
+
+
+
+
+
+#page-bannar {
+    height: 600px;
+    width: 100%;
+    background: url(image/about_bannar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 40;
+    /* margin: 40px 0 100px 0; */
+}
+
+
+#page-bannar h4 {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    text-shadow: 0 0 5px black;
+}
+
+#page-bannar-Restaurants {
+    height: 600px;
+    width: 100%;
+    background: url(image/fastfoodr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 40;
+    /* margin: 40px 0 100px 0; */
+}
+
+#page-bannar-Restaurants h4 {
+    color: #000000;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    text-shadow: 0 0 4px black;
+}
+
+.Restaurants-box1, .Restaurants-box2, .Restaurants-box3, .Restaurants-box4, .Restaurants-box5, .Restaurants-box6, .Restaurants-box7, .Restaurants-box8, .Restaurants-box9, .Restaurants-box10 {
+    background: #fbfbfb;
+    float: left;
+    text-align: center;
+    border-radius: 100px;
+    width: 480px;
+    height: 800;
+    margin: 20px 10px;
+    /* height: 1400px; */
+    overflow: hidden;
+    border: 10px solid #3d92b2;
+}
+
+.Restaurants-name{
+    
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 34px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    background-color: #3d92b2;
+    
+    Margin: 10px 0px 10px 0px;
+    text-decoration: none;
+    border-radius: 70px;
+    
+    
+    
+    
+}
+
+.Restaurants-icon a img {
+    width: 30px;
+    height: 30px;
+    margin: 20px 10px;
+    /* padding: 0px 0px; */
+    overflow: hidden;
+}
+
+.Restaurants-gif img {
+    width: 350px;
+    height: 300;
+    margin: 50px 0px 50px 0px;
+    overflow: hidden;
+    
+}
+
+.Restaurants-area{
+    
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 0;
+    outline: none;
+}
+.Restaurants-area a:hover {
+    background-color: #3d92b2;
+}
+
+.Restaurants-box1, .Restaurants-box3,.Restaurants-box5,.Restaurants-box7,.Restaurants-box9,{
+    
+    margin-left:0px;
+}
+
+.Restaurants-box2,.Restaurants-box4,.Restaurants-box6,.Restaurants-box8,.Restaurants-box10,{
+    
+    margin-right:0px;
+}
+
+
+.Restaurants-Information h4{
+    
+        text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 30px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    display: inline-block;
+    background-color: #3d92b2;
+    Margin: 10px 0px 10px 0px;
+    padding: 0 15px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+.Information-text p {
+    font-size: 15px;
+    /* padding: 50px 20px 32px 20px; */
+    padding: 10px 80px;
+    font-family: Calibri;
+    text-align: justify;
+}
+
+
+
+
+#page-bannar-Food-Review {
+    height: 600px;
+    width: 100%;
+    background: url(image/baby5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 40;
+    /* margin: 40px 0 100px 0; */
+}
+
+#page-bannar-Food-Review h4 {
+    color: #ffe000;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    text-shadow: 0 0 5px black;
+}
+
+.food-review {
+    background: #fbfbfb;
+    float: left;
+    text-align: center;
+    border-radius: 100px;
+    /* width: 480px; */
+    /* height: 800; */
+    margin: 20px 0px;
+    /* height: 1400px; */
+    width: inherit;
+    height: auto;
+    border: 10px solid #3d92b2;
+}
+.imgRA img {
+    /* width: 300px; */
+    margin: 50px 0 50px 0px;
+    height: 500px;
+    border-radius: 275px;
+    border: 10px solid #3d92b2;
+}
+
+
+
+.TFR h3 {
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 60px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    display: inline-block;
+    background-color: #3d92b2;
+    Margin: 10px 0px 50px 0px;
+    padding: 0 15px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+.video iframe {
+    width: 201px;
+    /* margin: 30px 20px 30px 20px; */
+    margin: 22px 22px;
+    float: left;
+    height: 250px;
+}
+
+.read a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #00b4db, #0083b0);
+    padding: 10px 40px;
+    display: inline-block;
+    margin: 30px 0 30px 0;
+    overflow: hidden;
+    font-size: 20;
+}
+
+.read a:hover {
+    border-color: #d00505;
+    background: linear-gradient(to bottom,#088ab3, #0092bd,#1b7c9e);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+
+.icon-review a img {
+    width: 60px;
+    height: 60px;
+    margin: 20px 20px;
+    padding: 5px 5px;
+}
+
+.icon-review a img:hover {
+    /* background-color: #000000; */
+    border: 3px solid #3d92b2;
+    border-radius: 113px;
+}
+
+
+
+
+.page-bannar-Gallery {
+    height: 600px;
+    width: 100%;
+    background: url(image/gallery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 40;
+    /* margin: 40px 0 100px 0; */
+}
+
+
+
+
+
+.page-bannar-Gallery h4 {
+    color: #000000;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    text-shadow: 0px 0px 5px #000000;
+}
+
+
+
+
+
+
+
+.photo{
+    
+    text-align:center;
+}
+
+.photo1 img {
+    height: 1205px;
+    width: 750px;
+    float: left;
+}
+
+.photo2 img {
+    height: 600px;
+    width: 745px;
+    float: left;
+    margin-left: 5;
+    margin-bottom: 5;
+}
+
+
+
+.area-Gallery  {
+    width: 1500px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 0;
+   
+    outline: none;
+}
+
+/* contacts */
+
+
+
+.page-bannar-contact {
+    height: 600px;
+    width: 100%;
+    background: url(image/contact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 40px solid #417f9f;
+    border-radius: 160px;
+    overflow: hidden;
+    margin-bottom: 100px;
+    margin-top: 40;
+    /* margin: 40px 0 100px 0; */
+}
+
+
+.page-bannar-contact h4 {
+    color: #ffffff;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    text-shadow: 0px 0px 20px #000000;
+}
+
+
+
+.Contact {
+    text-align: center;
+    overflow: hidden;
+}
+
+
+.Contact h2 {
+    text-align: center;
+    color: #ffffff;
+    text-transform: initial;
+    font-size: 60px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    /* display: inline-block; */
+    background-color: #3d92b2;
+    Margin: 10px 0px 50px 0px;
+    padding: 0 15px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+.Address {
+    /* background: white; */
+    overflow: hidden;
+    border: 10px solid #3d92b2;
+    border-radius: 100px;
+    margin-bottom: 50;
+}
+.Address img {
+    width: 200px;
+    height: 200px;
+    margin: 98px 50px;
+    padding: 5px 5px;
+    float: right;
+}
+
+
+.Address img:hover {
+    /* background-color: #000000; */
+    border: 3px solid #3d92b2;
+    border-radius: 113px;
+}
+
+
+
+.address-box ul li span {
+    color: #3d92b2;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.address-box ul {
+    text-align: left;
+    font-size: 18px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    list-style: none;
+    display: inline-block;
+    float: left;
+    /* background: red; */
+    margin: 76px 10px;
+    padding: 10px 10px;
+}
+.Address h4 {
+    text-align: center;
+    color: #3d92b2;
+    text-transform: initial;
+    font-size: 40px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    display: inline-block;
+    /* background-color: #3d92b2; */
+    Margin: 50px 0px 0px 0px;
+    padding: 0 15px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+
+
+
+.send-message {
+    overflow: hidden;
+    border: 10px solid #3d92b2;
+    border-radius: 100px;
+    margin-bottom: 50;
+    height: 1430px;
+}
+
+.send-message h4 {
+    
+    
+    text-align: center;
+    color: #3d92b2;
+    text-transform: initial;
+    font-size: 40px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    /* text-shadow: 0px 0px 1px #000000, 0 0 20px #000000; */
+    /* border: 5px solid #000000; */
+    overflow: hidden;
+    display: inline-block;
+    /* background-color: #3d92b2; */
+    Margin: 50px 0px 0px 0px;
+    padding: 0 15px;
+    text-decoration: none;
+    border-radius: 70px;
+}
+
+
+
+
+
+.contact-input textarea {
+    float: left;
+    margin: 5px 0px 30px;
+    width: 940px;
+    padding: 5px 5px;
+    background: #edfaff73;
+    font-size: 15px;
+    border: 1px solid #3d92b24d;
+    height: 200;
+    border-radius: 20px;
+}
+.contact-input input[type="submit"] {
+    float: none;
+    height: 40;
+    border-radius: 126px;
+    width: 100;
+    /* background: #3d92b2; */
+    background: linear-gradient(to bottom, #00b4db, #0083b0);
+    color: white;
+    font-size: 15;
+}
+
+.contact-input input[type="submit"]:hover {
+   border-color: #d00505;
+    background: linear-gradient(to bottom,#0e84a9c7, #0092bd,#187a9c);
+    border: 0px solid #000000;
+    overflow: hidden;
+    box-shadow: 0px 0px 7px 1px #000000
+}
+
+.contact-input {
+    /* width: 100%; */
+    width: 100%px;
+    /* height: 95px; */
+    /* background: red; */
+    margin: 76px 0px 80px 0px;
+    padding: 0px 20px;
+    float: left;
+    align-items: center;
+}
+.contact-input input {
+    background: #edfaff73;
+    float: left;
+    width: 465px;
+    /* color: black; */
+    padding: 0 5px;
+    font-size: 15px;
+    height: 70;
+    /* margin: 0 9px; */
+    border-radius: 20px;
+    border: 1px solid #3d92b24d;
+    margin: 10px 0;
+    margin-right: 10;
+}
+
+.map img {
+    height: 225px;
+    height: 374px;
+    width: 230px;
+    /* float: right; */
+    /* margin: 177.5px 0; */
+    margin: 86px 0 0 0;
+}
+
+
+.follow {
+   border-radius: 180px;
+}
+.follow h4 {
+    color: #3d92b2;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    /* font-style: italic; */
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    /* margin: 0px 0px 10px 0; */
+    padding: 0px 0 0 0;
+}
+.follow a {
+    
+}
+.follow a img {
+    width: 30px;
+    height: 30px;
+    margin: 20px 20px;
+    padding: 3px 3px;
+    overflow: hidden;
+}
+
+
+.follow a img:hover { 
+  
+ border: 3px solid #3d92b2;
+    border-radius: 113px;
+
+}
+
+
+.send-message h5 {
+    
+    margin: 80px 0px 80px 0px;
+    font-size: 40;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: #3d92b2;
+    padding: 5px 0;
+}
+
+.send-message iframe {
+    padding: 0 20;
+    width: 100%;
+    margin-bottom: 50;
+}
+
+
+
+
+
+.about-list, .support-list {
+    /* background: aqua; */
+    padding: 20px 20px;
+    margin: 0px 10px 20px 10px;
+    text-align: left;
+    display: inline-block;
+}
+
+
+.about-list ul,.support-list ul {
+    list-style:none;
+   
+    
+}
+.about-list ul li, .support-list ul li {
+    margin: 10px 0;
+    color: #3d92b2;
+    font-size: 20;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+.about-list ul a, .support-list ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 15;
+}
+.about-list ul a:hover, .support-list ul a:hover {
+    color: #3d94b4;
+    text-decoration: underline;
+}
+.footer2 {
+    
+    
+}
+
+.about-list ul li span, .support-list ul li span {
+    font-size: 25;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
